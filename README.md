@@ -25,3 +25,5 @@ Mängu käivitamiseks on vajalik **Python 3.x** ning järgmised teegid:
 * `requests` (lippude allalaadimiseks veebist)
 
 Samuti peab projektis olema fail `andmed.py`, mis sisaldab riikide andmeid (nimesid ja koode).
+
+# Projekti autorid: Erik Polyasniy ja Rauno Zõbin
