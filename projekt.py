@@ -36,8 +36,8 @@ def jargmine_kusimus():
 
     # Muudame pildiandmed PIL (Pillow) abil Tkinterile sobivaks
     pildi_andmed = BytesIO(vastus.content)
-    avaa_pilt = Image.open(pildi_andmed)
-    lipu_foto = ImageTk.PhotoImage(avaa_pilt)
+    ava_pilt = Image.open(pildi_andmed)
+    lipu_foto = ImageTk.PhotoImage(ava_pilt)
 
     # Kuvame lipu pildi kasutajaliideses
     lipu_label.config(image=lipu_foto, text="")
