@@ -1,6 +1,7 @@
 # Lipu Viktoriin 
 
 Lihtne ja lõbus Pythoni ning Tkinteri abil loodud graafiline viktoriinimäng, kus mängija peab pildi järgi ära tundma riikide lipud.
+See programm aitab geograafiahuvilistel õppida riike ja nende lippe tundma. Valisime selle projekti, sest geograafia on meie jaoks huvitav ja see on hea viis oma teadmiste arendamiseks nii geograafias kui ka programmeerimises.
 
 ---
 
