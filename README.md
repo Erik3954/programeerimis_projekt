@@ -9,7 +9,7 @@ Lihtne ja lõbus Pythoni ning Tkinteri abil loodud graafiline viktoriinimäng, k
 Mäng valib juhuslikult riigi, laeb internetist vastava riigilipu pildi ja palub kasutajal sisestada riigi nime. Mäng arvestab punkte ja hoiab meeles parimat tulemust (rekordit).
 
 ### Mängureeglid:
-* **Kuidas mängida:** Kirjuta terminalis python projekt.py, kui Pillow ja requests on üles laaditud ja kasutad python 3.x versiooni hakkab mäng tööle.
+* **Kuidas mängida:** Kirjuta terminalis: `python projekt.py`, kui Pillow ja requests on üles laaditud ja kasutad python 3.x versiooni hakkab mäng tööle.
 * **Õige vastus:** Saad 1 punkti ja liigud järgmise lipu juurde.
 * **Vale vastus:** Sul on iga lipu ära arvamiseks **5 katset**.
 * **Mängu lõpp / Nullimine:** Kui eksid 5 korda järjest ühe lipu puhul, nullitakse sinu praegune punktisumma ja näidatakse õiget vastust.
