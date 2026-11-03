@@ -2,7 +2,7 @@ import tkinter as tk
 from random import randint
 import requests
 from PIL import Image, ImageTk
-from andmed import riigide_koodid
+from andmed import riikide_koodid
 from io import BytesIO
 
 # --- Globaalsed muutujad ---
@@ -26,7 +26,7 @@ def jargmine_kusimus():
     tagasiside_label.config(text="")
 
     # Valime andmetest juhusliku riigi
-    praegune_riik = riigide_koodid[randint(0, len(riigide_koodid))]
+    praegune_riik = riikide_koodid[randint(0, len(riikide_koodid))]
     riigi_nimi = praegune_riik["name"]
     riigi_luhend = praegune_riik["code"]
 
